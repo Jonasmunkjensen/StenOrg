@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
 format: html
+editor: visual
 ---
 
 **Kontakt**
