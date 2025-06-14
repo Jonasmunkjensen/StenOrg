@@ -1,0 +1,14 @@
+---
+title: "StenOrg"
+format: html
+editor: visual
+---
+
+![Created in ChatGPT](stenorg.PNG){fig-align="center"}
+
+::: {style="text-align: center"}
+**StenOrg meeting anno 2025**\
+**Jonas Munk Jensen**\
+**Steno Diabetes Center Aarhus**\
+**Aarhus Universitetshospital**
+:::

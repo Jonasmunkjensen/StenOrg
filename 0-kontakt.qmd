@@ -1,0 +1,14 @@
+---
+title: "Kontakt"
+format: html
+---
+
+**Kontakt**
+
+Jonas Munk Jensen, Projektmedarbejder
+
+[Jonas.munk.jensen\@rm.dk](mailto:Jonas.munk.jensen@rm.dk){.email}
+
+Tlf: 24607984
+
+![](pics/jonas_ghibli.PNG)
