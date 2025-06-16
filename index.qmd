@@ -1,7 +1,9 @@
 ---
 title: "StenOrg"
-format: html
-editor: visual
+format: 
+  html: default
+execute: 
+  echo: false
 ---
 
 ![Created in ChatGPT](stenorg.PNG){fig-align="center"}
