@@ -27,7 +27,7 @@ website:
       - text: "Kontakt"
         href: 0-kontakt.qmd
       - text: "How to hjemmeside"
-      - href: 1-hot_to.qmd
+      - href: 1-how_to.qmd
 
 format:
   sdca-theme-html:
