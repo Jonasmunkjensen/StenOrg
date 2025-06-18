@@ -1,5 +1,5 @@
 project:
-  type: website
+  type: sdca-theme
 
 website:
   title: "LIVING forskningsprojekt"
@@ -28,9 +28,12 @@ website:
         href: 0-kontakt.qmd
 
 format:
-  html:
+  sdca-theme-html:
     theme:
-      light: [cosmo, theme.scss]
-    code-copy: true
-    code-overflow: wrap
-    toc: true
+      - brand
+      - custom-styles.scss
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true
