@@ -1,5 +1,5 @@
 ---
-title: "Sådan får du en hjemmeside ud i verden (uden at svede)"
+title: "Sådan får du en hjemmeside ud i verden"
 format: html
 editor: visual
 ---
