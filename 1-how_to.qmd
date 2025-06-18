@@ -1,0 +1,77 @@
+---
+title: "Sådan får du en hjemmeside ud i verden (uden at svede)"
+format: html
+editor: visual
+---
+
+# 🚀 Quarto + GitHub: Den hurtige guide til at få din hjemmeside live
+
+Velkommen til en lyn-guide til dig, der gerne vil trykke "udgiv" uden at læse en 40 siders manual eller ringe til en ven i panik. Her er, hvad du skal gøre – og ja, du må gerne stjæle med arme og ben.
+
+---
+
+## 🤔 Før du trykker på noget:
+
+1. **Skal hjemmesiden have flere faneblade?**  
+   > Overvej hvad brugeren skal kunne finde.
+
+2. **Skal der være video?**  
+   > Og hvor skal den ligge?
+
+3. **Har du billeder, du skal bruge?**  
+   > Fx til kontaktinformationer
+
+---
+
+## 📞 Kontakt Luke eller Signe
+
+De har skabeloner og guidelines, så du ikke får designpoliti på nakken senere.  
+Skriv kort dine overvejelser ovenfor.
+
+---
+
+## 🛠️ Sådan gør du i GitHub
+
+1. Gå til [github.com](https://github.com)
+2. Klik på **New Repository**
+3. Navngiv dit repo (github navn efterfulgt af projektnavn)
+4. Klik på **"Create new file"**
+5. Opret forsiden: `index.qmd`
+6. Tilføj flere filer hvis nødvendigt: `0-kontakt.qmd`, `how_to.qmd`, etc.
+7. Opload billeder til dit **Repository**
+
+---
+
+## ✂️ Kopiér skamløst
+
+Start ikke med et tomt dokument. Brug i stedet tidligere projekter som base:
+
+- **LIVING**  
+  Repo: [github.com/steno-aarhus/living-project](https://github.com/steno-aarhus/living-project)  
+  Hjemmeside: [steno-aarhus.github.io/living-project](https://steno-aarhus.github.io/living-project)
+
+- **EvaKom**  
+  Repo: [github.com/steno-aarhus/evakom](https://github.com/steno-aarhus/evakom)  
+  Hjemmeside: [steno-aarhus.github.io/evakom](https://steno-aarhus.github.io/evakom)
+
+Kopier hele molevitten, og ret til så det passer dit projekt.
+
+---
+
+## 🧠 Husk
+
+- Filerne skal afsluttes med (`.qmd`)
+- Brug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid. 
+- Gem og commit dine ændringer løbende
+
+---
+
+## 📨 Sådan bliver den publiceret
+
+Når du er tilfreds med siden, sender du **linket til dit GitHub-repository** til **Luke eller Signe**.  
+De trykker på de rigtige knapper – og vupti, din hjemmeside er live 🎉
+
+---
+
+**PS:** Hellere udgive noget simpelt end aldrig at blive færdig. Du kan altid forbedre det senere.
+

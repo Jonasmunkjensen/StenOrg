@@ -10,7 +10,22 @@ execute:
 
 ::: {style="text-align: center"}
 **StenOrg meeting anno 2025**\
-**Jonas Munk Jensen**\
 **Steno Diabetes Center Aarhus**\
 **Aarhus Universitetshospital**
+:::
+
+# Om StenOrg
+Velkommen til StenOrg – den uofficielle, halvstrukturerede og stærkt koffeinbaserede forskergruppe med base i virkeligheden og fødderne solidt plantet i evidens… og nogle gange i mudderet fra feltarbejde. Vi er et broget hold af diabetesforskere med specialer fra antropologi til økonomi, fra samfundsvidenskab til svedige træningslaboratorier. Tilsammen danner vi et kollektiv, hvor der både er plads til kvalitative dybdeinterviews, avancerede målemetoder og den evige jagt på gratis kaffe.
+
+## Hvad laver vi?
+Vi forsøger at forstå diabetes. Ikke bare hvordan blodsukkeret opfører sig, men hvordan hele mennesket – og samfundet omkring det – gør. Vi undersøger hvorfor nogen får sved på panden over et HIIT-program, mens andre får det over at skulle finde transport til kommunens sundhedstilbud. Vi nørder data, vi stiller spørgsmål, vi tolker, debatterer og griner (især når vi ser hinandens forsøg på at forstå hinandens fagfelter). Vi tager både blodtryk og kulturanalyse – og nogle gange hinandens arbejde – meget seriøst.
+
+### Hvorfor skal du blive en del af vores hold?
+Fordi du elsker uventede diskussioner om alt fra insulinresistens til institutionel logik – og fordi du gerne vil være med til at lave forskning, der faktisk betyder noget for rigtige mennesker i rigtige liv. Hos os får du ikke bare kollegaer, du får et forskerfællesskab, hvor det er helt normalt at starte et møde med “jeg ved godt, det her lyder skørt, men…”. Og hey – vi lover, at ingen kommer til at mangle grafer, teorirammer eller memes. Så hvis du kan lide forskning med både hjerne og hjerte (og humor), så er StenOrg stedet for dig!
+
+:::{.callout-warning}
+Husk at tilmelde dig inde...
+
+Der findes forskellige callouts: 
+`note`, `tip`, `warning`, `caution`, and `important`.
 :::
