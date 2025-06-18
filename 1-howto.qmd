@@ -61,8 +61,8 @@ Kopier hele molevitten, og ret til så det passer dit projekt.
 ## 🧠 Husk
 
 -   Filerne skal afsluttes med (`.qmd`)
--   Brug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid.
 -   Gem og commit dine ændringer løbende
+-   Hvis du gerne vil nørde mere ned i det kan du bruge Quarto i R-studio eller Visual Studio Code [code.visualstudio.com](https://code.visualstudio.com/). Så kan du se ændringer i realtid.
 
 ------------------------------------------------------------------------
 
