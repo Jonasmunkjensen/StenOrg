@@ -4,7 +4,7 @@
     "href": "1-howto.html",
     "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
-    "text": "Velkommen til en lyn-guide til dig, der gerne vil trykke “udgiv” uden at læse en 40 siders manual eller ringe til en ven i panik. Her er, hvad du skal gøre – og ja, du må gerne stjæle med arme og ben.\n\n\n\n\nSkal hjemmesiden have flere faneblade?\n&gt; Overvej hvad brugeren skal kunne finde.\nSkal der være video?\n&gt; Og hvor skal den ligge?\nHar du billeder, du skal bruge?\n&gt; Fx til kontaktinformationer\n\n\n\n\n\nDe har skabeloner og guidelines, så du ikke får designpoliti på nakken senere.\nSkriv kort dine overvejelser ovenfor.\n\n\n\n\n\nGå til github.com\nKlik på New Repository\nNavngiv dit repo (github navn efterfulgt af projektnavn)\nKlik på “Create new file”\nOpret forsiden: index.qmd\nTilføj flere filer hvis nødvendigt: 0-kontakt.qmd, how_to.qmd, etc.\nOpload billeder til dit Repository\n\n\n\n\n\nStart ikke med et tomt dokument. Brug i stedet tidligere projekter som base:\n\nLIVING\nRepo: github.com/steno-aarhus/living-project\nHjemmeside: steno-aarhus.github.io/living-project\nEvaKom\nRepo: github.com/steno-aarhus/evakom\nHjemmeside: steno-aarhus.github.io/evakom\n\nKopier hele molevitten, og ret til så det passer dit projekt.\n\n\n\n\n\nFilerne skal afsluttes med (.qmd)\nBrug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid.\nGem og commit dine ændringer løbende\n\n\n\n\n\nNår du er tilfreds med siden, sender du linket til dit GitHub-repository til Luke eller Signe.\nDe trykker på de rigtige knapper – og vupti, din hjemmeside er live 🎉\n\nPS: Hellere udgive noget simpelt end aldrig at blive færdig. Du kan altid forbedre det senere."
+    "text": "Velkommen til en lyn-guide til dig, der gerne vil trykke “udgiv” uden at læse en 40 siders manual eller ringe til en ven i panik. Her er, hvad du skal gøre – og ja, du må gerne stjæle med arme og ben.\n\n\n\n\nSkal hjemmesiden have flere faneblade?\n&gt; Overvej hvad brugeren skal kunne finde.\nSkal der være video?\n&gt; Og hvor skal den ligge?\nHar du billeder, du skal bruge?\n&gt; Fx til kontaktinformationer\n\n\n\n\n\nDe har skabeloner og guidelines, så du ikke får designpoliti på nakken senere.\nSkriv kort dine overvejelser ovenfor.\n\n\n\n\n\nGå til github.com\nKlik på New Repository\nNavngiv dit repo (github navn efterfulgt af projektnavn)\nKlik på “Create new file”\nOpret forsiden: index.qmd\nTilføj flere filer hvis nødvendigt: 0-kontakt.qmd, how_to.qmd, etc.\nOpload billeder til dit Repository\n\n\n\n\n\nStart ikke med et tomt dokument. Brug i stedet tidligere projekter som base:\n\nLIVING\nRepo: github.com/steno-aarhus/living-project\nHjemmeside: steno-aarhus.github.io/living-project\nEvaKom\nRepo: github.com/steno-aarhus/evakom\nHjemmeside: steno-aarhus.github.io/evakom\n\nKopier hele molevitten, og ret til så det passer dit projekt.\n\n\n\n\n\nFilerne skal afsluttes med (.qmd)\nGem og commit dine ændringer løbende\nHvis du gerne vil nørde mere ned i det kan du bruge Quarto i R-studio eller Visual Studio Code code.visualstudio.com. Så kan du se ændringer i realtid.\n\n\n\n\n\nNår du er tilfreds med siden, sender du linket til dit GitHub-repository til Luke eller Signe.\nDe trykker på de rigtige knapper – og vupti, din hjemmeside er live 🎉\n\nPS: Hellere udgive noget simpelt end aldrig at blive færdig. Du kan altid forbedre det senere."
   },
   {
     "objectID": "1-howto.html#før-du-trykker-på-noget",
@@ -39,7 +39,7 @@
     "href": "1-howto.html#husk",
     "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
-    "text": "Filerne skal afsluttes med (.qmd)\nBrug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid.\nGem og commit dine ændringer løbende"
+    "text": "Filerne skal afsluttes med (.qmd)\nGem og commit dine ændringer løbende\nHvis du gerne vil nørde mere ned i det kan du bruge Quarto i R-studio eller Visual Studio Code code.visualstudio.com. Så kan du se ændringer i realtid."
   },
   {
     "objectID": "1-howto.html#sådan-bliver-den-publiceret",
@@ -70,10 +70,24 @@
     "text": "Created in ChatGPT"
   },
   {
+    "objectID": "index.html#om-stenorg",
+    "href": "index.html#om-stenorg",
+    "title": "StenOrg",
+    "section": "Om StenOrg",
+    "text": "Om StenOrg\nVelkommen til StenOrg – den uofficielle, halvstrukturerede og stærkt koffeinbaserede forskergruppe med base i virkeligheden og fødderne solidt plantet i evidens… og nogle gange i mudderet fra feltarbejde. Vi er et broget hold af diabetesforskere med specialer fra antropologi til økonomi, fra samfundsvidenskab til svedige træningslaboratorier. Tilsammen danner vi et kollektiv, hvor der både er plads til kvalitative dybdeinterviews, avancerede målemetoder og den evige jagt på gratis kaffe."
+  },
+  {
     "objectID": "index.html#hvad-laver-vi",
     "href": "index.html#hvad-laver-vi",
     "title": "StenOrg",
     "section": "Hvad laver vi?",
-    "text": "Hvad laver vi?\nVi forsøger at forstå diabetes. Ikke bare hvordan blodsukkeret opfører sig, men hvordan hele mennesket – og samfundet omkring det – gør. Vi undersøger hvorfor nogen får sved på panden over et HIIT-program, mens andre får det over at skulle finde transport til kommunens sundhedstilbud. Vi nørder data, vi stiller spørgsmål, vi tolker, debatterer og griner (især når vi ser hinandens forsøg på at forstå hinandens fagfelter). Vi tager både blodtryk og kulturanalyse – og nogle gange hinandens arbejde – meget seriøst.\n\nHvorfor skal du blive en del af vores hold?\nFordi du elsker uventede diskussioner om alt fra insulinresistens til institutionel logik – og fordi du gerne vil være med til at lave forskning, der faktisk betyder noget for rigtige mennesker i rigtige liv. Hos os får du ikke bare kollegaer, du får et forskerfællesskab, hvor det er helt normalt at starte et møde med “jeg ved godt, det her lyder skørt, men…”. Og hey – vi lover, at ingen kommer til at mangle grafer, teorirammer eller memes. Så hvis du kan lide forskning med både hjerne og hjerte (og humor), så er StenOrg stedet for dig!\n\n\n\n\n\n\nWarning\n\n\n\nHusk at tilmelde dig inde…\nDer findes forskellige callouts: note, tip, warning, caution, and important."
+    "text": "Hvad laver vi?\nVi forsøger at forstå diabetes. Ikke bare hvordan blodsukkeret opfører sig, men hvordan hele mennesket – og samfundet omkring det – gør. Vi undersøger hvorfor nogen får sved på panden over et HIIT-program, mens andre får det over at skulle finde transport til kommunens sundhedstilbud. Vi nørder data, vi stiller spørgsmål, vi tolker, debatterer og griner (især når vi ser hinandens forsøg på at forstå hinandens fagfelter). Vi tager både blodtryk og kulturanalyse – og nogle gange hinandens arbejde – meget seriøst."
+  },
+  {
+    "objectID": "index.html#hvorfor-skal-du-blive-en-del-af-vores-hold",
+    "href": "index.html#hvorfor-skal-du-blive-en-del-af-vores-hold",
+    "title": "StenOrg",
+    "section": "Hvorfor skal du blive en del af vores hold?",
+    "text": "Hvorfor skal du blive en del af vores hold?\nFordi du elsker uventede diskussioner om alt fra insulinresistens til institutionel logik – og fordi du gerne vil være med til at lave forskning, der faktisk betyder noget for rigtige mennesker i rigtige liv. Hos os får du ikke bare kollegaer, du får et forskerfællesskab, hvor det er helt normalt at starte et møde med “jeg ved godt, det her lyder skørt, men…”. Og hey – vi lover, at ingen kommer til at mangle grafer, teorirammer eller memes. Så hvis du kan lide forskning med både hjerne og hjerte (og humor), så er StenOrg stedet for dig!\n\n\n\n\n\n\nWarning\n\n\n\nHusk at tilmelde dig inde…\nDer findes forskellige callouts: note, tip, warning, caution, and important."
   }
 ]
