@@ -2,49 +2,49 @@
   {
     "objectID": "1-howto.html",
     "href": "1-howto.html",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Velkommen til en lyn-guide til dig, der gerne vil trykke “udgiv” uden at læse en 40 siders manual eller ringe til en ven i panik. Her er, hvad du skal gøre – og ja, du må gerne stjæle med arme og ben.\n\n\n\n\nSkal hjemmesiden have flere faneblade?\n&gt; Overvej hvad brugeren skal kunne finde.\nSkal der være video?\n&gt; Og hvor skal den ligge?\nHar du billeder, du skal bruge?\n&gt; Fx til kontaktinformationer\n\n\n\n\n\nDe har skabeloner og guidelines, så du ikke får designpoliti på nakken senere.\nSkriv kort dine overvejelser ovenfor.\n\n\n\n\n\nGå til github.com\nKlik på New Repository\nNavngiv dit repo (github navn efterfulgt af projektnavn)\nKlik på “Create new file”\nOpret forsiden: index.qmd\nTilføj flere filer hvis nødvendigt: 0-kontakt.qmd, how_to.qmd, etc.\nOpload billeder til dit Repository\n\n\n\n\n\nStart ikke med et tomt dokument. Brug i stedet tidligere projekter som base:\n\nLIVING\nRepo: github.com/steno-aarhus/living-project\nHjemmeside: steno-aarhus.github.io/living-project\nEvaKom\nRepo: github.com/steno-aarhus/evakom\nHjemmeside: steno-aarhus.github.io/evakom\n\nKopier hele molevitten, og ret til så det passer dit projekt.\n\n\n\n\n\nFilerne skal afsluttes med (.qmd)\nBrug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid.\nGem og commit dine ændringer løbende\n\n\n\n\n\nNår du er tilfreds med siden, sender du linket til dit GitHub-repository til Luke eller Signe.\nDe trykker på de rigtige knapper – og vupti, din hjemmeside er live 🎉\n\nPS: Hellere udgive noget simpelt end aldrig at blive færdig. Du kan altid forbedre det senere."
   },
   {
     "objectID": "1-howto.html#før-du-trykker-på-noget",
     "href": "1-howto.html#før-du-trykker-på-noget",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Skal hjemmesiden have flere faneblade?\n&gt; Overvej hvad brugeren skal kunne finde.\nSkal der være video?\n&gt; Og hvor skal den ligge?\nHar du billeder, du skal bruge?\n&gt; Fx til kontaktinformationer"
   },
   {
     "objectID": "1-howto.html#kontakt-luke-eller-signe",
     "href": "1-howto.html#kontakt-luke-eller-signe",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "De har skabeloner og guidelines, så du ikke får designpoliti på nakken senere.\nSkriv kort dine overvejelser ovenfor."
   },
   {
     "objectID": "1-howto.html#sådan-gør-du-i-github",
     "href": "1-howto.html#sådan-gør-du-i-github",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Gå til github.com\nKlik på New Repository\nNavngiv dit repo (github navn efterfulgt af projektnavn)\nKlik på “Create new file”\nOpret forsiden: index.qmd\nTilføj flere filer hvis nødvendigt: 0-kontakt.qmd, how_to.qmd, etc.\nOpload billeder til dit Repository"
   },
   {
     "objectID": "1-howto.html#kopiér-skamløst",
     "href": "1-howto.html#kopiér-skamløst",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Start ikke med et tomt dokument. Brug i stedet tidligere projekter som base:\n\nLIVING\nRepo: github.com/steno-aarhus/living-project\nHjemmeside: steno-aarhus.github.io/living-project\nEvaKom\nRepo: github.com/steno-aarhus/evakom\nHjemmeside: steno-aarhus.github.io/evakom\n\nKopier hele molevitten, og ret til så det passer dit projekt."
   },
   {
     "objectID": "1-howto.html#husk",
     "href": "1-howto.html#husk",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Filerne skal afsluttes med (.qmd)\nBrug Quarto i R hvis du har det på din computer. Så kan du se ændringer i realtid.\nGem og commit dine ændringer løbende"
   },
   {
     "objectID": "1-howto.html#sådan-bliver-den-publiceret",
     "href": "1-howto.html#sådan-bliver-den-publiceret",
-    "title": "Sådan får du en hjemmeside ud i verden (uden at svede)",
+    "title": "Sådan får du en hjemmeside ud i verden",
     "section": "",
     "text": "Når du er tilfreds med siden, sender du linket til dit GitHub-repository til Luke eller Signe.\nDe trykker på de rigtige knapper – og vupti, din hjemmeside er live 🎉\n\nPS: Hellere udgive noget simpelt end aldrig at blive færdig. Du kan altid forbedre det senere."
   },
@@ -60,7 +60,7 @@
     "href": "0-kontakt.html",
     "title": "Kontakt",
     "section": "",
-    "text": "Kontakt\nJonas Munk Jensen, Videnskabelig assistent\nJonas.munk.jensen@rm.dk"
+    "text": "Jonas Munk Jensen, Videnskabelig assistent\nJonas.munk.jensen@rm.dk"
   },
   {
     "objectID": "index.html",
