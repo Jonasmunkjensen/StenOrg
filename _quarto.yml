@@ -26,6 +26,8 @@ website:
         href: index.qmd
       - text: "Kontakt"
         href: 0-kontakt.qmd
+      - text: "How to hjemmeside"
+      - href: 1-hot_to.qmd
 
 format:
   sdca-theme-html:
@@ -33,7 +35,7 @@ format:
       - brand
       - custom-styles.scss
 
-editor: 
+editor:
   markdown:
     wrap: 72
     canonical: true
